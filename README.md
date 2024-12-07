@@ -30,22 +30,25 @@ California's Informative Beach Website is a cloud-based platform providing updat
 1. Frontend:
     * Hosted on a virtual machine in GCE.
     * Communicates with the backend using RESTful APIs.
-Backend:
-Hosted on a separate GCE instance.
-Secured connectivity with Cloud SQL using IAM roles.
-Database:
-Cloud SQL handles user preferences, alerts, and archived data for trend analysis.
-Project Goals
-Provide a one-stop platform for all beach-related information in California.
-Promote user engagement with personalized notifications and conservation updates.
-Ensure scalability and reliability with robust cloud infrastructure.
-Setup and Usage
-Clone the Repository:
+2. Backend:
+    * Hosted on a separate GCE instance.
+    * Secured connectivity with Cloud SQL using IAM roles.
+3. Database:
+    * Cloud SQL handles user preferences, alerts, and archived data for trend analysis.
+
+## Project Goals
+* Provide a one-stop platform for all beach-related information in California.
+* Promote user engagement with personalized notifications and conservation updates.
+* Ensure scalability and reliability with robust cloud infrastructure.
+
+## Setup and Usage
+1. Clone the Repository:
 
 bash
 Copy code
 git clone https://github.com/jainishshah0124/california-beach-website.git
-Install Dependencies:
+
+2. Install Dependencies:
 
 bash
 Copy code
@@ -53,7 +56,8 @@ cd california-beach-website/frontend
 npm install
 cd ../backend
 npm install
-Run the Application:
+
+3. Run the Application:
 
 Frontend:
 bash

@@ -3,17 +3,18 @@
 California's Informative Beach Website is a cloud-based platform providing updated and accurate information about California beaches. Designed for tourists and residents, the website promotes environmental awareness while offering real-time beach data, including weather, tide conditions, nearby attractions, and safety alerts.
 
 ## Features
-Real-Time Data:
-Live updates on weather, tide conditions, and water quality.
-Personalized Experience:
-Track user preferences, favorites, and alerts.
-Environmental Awareness:
-Highlights conservation efforts and coastal dangers.
-Comprehensive Beach Information:
-Local wildlife, nearby points of interest, and more.
-Technology Stack
-Frontend:
-Developed using React.js for a responsive user interface.
+1. Real-Time Data:
+    Live updates on weather, tide conditions, and water quality.
+2. Personalized Experience:
+    Track user preferences, favorites, and alerts.
+3. Environmental Awareness:
+    Highlights conservation efforts and coastal dangers.
+4. Comprehensive Beach Information:
+    Local wildlife, nearby points of interest, and more.
+
+## Technology Stack
+1. Frontend:
+    Developed using React.js for a responsive user interface.
 Backend:
 Built with Node.js to handle API data processing and user management.
 Database:

@@ -2,6 +2,13 @@
 ## Project Overview
 California's Informative Beach Website is a cloud-based platform providing updated and accurate information about California beaches. Designed for tourists and residents, the website promotes environmental awareness while offering real-time beach data, including weather, tide conditions, nearby attractions, and safety alerts.
 
+## Contributors
+* Josue Rivas
+* Wayne Muse
+* Ali Yassine
+* Jainish Shah
+* Andres Perez
+
 ## Features
 1. Real-Time Data:
     Live updates on weather, tide conditions, and water quality.
@@ -44,9 +51,9 @@ California's Informative Beach Website is a cloud-based platform providing updat
 ## Setup and Usage
 1. Clone the Repository:
 
-bash
+```bash
 Copy code
-git clone https://github.com/jainishshah0124/california-beach-website.git
+git clone https://github.com/jainishshah0124/california-beach-website.git ```
 
 2. Install Dependencies:
 
@@ -72,12 +79,7 @@ Access the Website: Visit http://localhost:3000 for the frontend.
 API Integration
 Weather and tide data fetched from third-party APIs.
 Secure API endpoints for user preferences and alerts.
-Contributors
-Josue Rivas
-Wayne Muse
-Ali Yassine
-Jainish Shah
-Andres Perez
+
 Future Enhancements
 Add a mobile app version of the platform.
 Incorporate more analytics for historical trends.

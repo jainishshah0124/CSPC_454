@@ -49,13 +49,13 @@ California's Informative Beach Website is a cloud-based platform providing updat
 * Ensure scalability and reliability with robust cloud infrastructure.
 
 ## Setup and Usage
-1. ** Clone the Repository: **
+1. **Clone the Repository:**
 
 ```bash
 git clone https://github.com/jainishshah0124/california-beach-website.git 
 ```
 
-2. ** Install Dependencies: **
+2. **Install Dependencies:**
 ```
 bash
 cd california-beach-website/frontend
@@ -64,7 +64,7 @@ cd ../backend
 npm install
 ```
 
-3. ** Run the Application: **
+3. **Run the Application:**
 
 * Frontend:
 ```bash

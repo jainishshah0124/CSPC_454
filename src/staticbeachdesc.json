@@ -1,0 +1,154 @@
+{
+    "html_attributions": [],
+    "results": {
+        "address_components": [
+            {
+                "long_name": "Laguna Beach",
+                "short_name": "Laguna Beach",
+                "types": [
+                    "locality",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Orange County",
+                "short_name": "Orange County",
+                "types": [
+                    "administrative_area_level_2",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "California",
+                "short_name": "CA",
+                "types": [
+                    "administrative_area_level_1",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "United States",
+                "short_name": "US",
+                "types": [
+                    "country",
+                    "political"
+                ]
+            }
+        ],
+        "adr_address": "<span class=\"locality\">Laguna Beach</span>, <span class=\"region\">CA</span>, <span class=\"country-name\">USA</span>",
+        "formatted_address": "Laguna Beach, CA, USA",
+        "geometry": {
+            "location": {
+                "lat": 33.5427189,
+                "lng": -117.7853568
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 33.61029846524773,
+                    "lng": -117.731183034429
+                },
+                "southwest": {
+                    "lat": 33.484172915427,
+                    "lng": -117.8201947533314
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Laguna Beach",
+        "photos": [
+            {
+                "height": 990,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/115879638001435740331\">Dr. Nizam Uddin Anon</a>"
+                ],
+                "photo_reference": "AdCG2DPJgGQkgMjH31M6a3N0h-THGbX8rFckBy32cWdHPVAssZv0gjbWgZJxjS81B--LHjiQ8IG5OHyF2kXhNq9HhbwQgrVmSkl3lgRQB4RLfedVIObs7uMGGQjs9d3kn6GnYoTUXA9bjunA8bWAtSrSrDcOsuvpYoFVTJtUCd87n1b056Y",
+                "width": 720
+            },
+            {
+                "height": 1365,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/117377762110860852590\">SPCA663 Little B</a>"
+                ],
+                "photo_reference": "AdCG2DPpYFGIf970LzM-zGM0DF5UZsB_3tWR9xgaJU56Y6utYqdpDBMXJMgUebU8KlQwG4QXV2wXPO38YSflZ0gxF2pauQCeqCJrzpM6KroYfIa_rCbf3ve1tG3SHgdBTm_w6qEptHtbKSm87B6uEEqyoLWngB9TZqbCsOMpDA4hviQOxjad",
+                "width": 2048
+            },
+            {
+                "height": 408,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/115455114095176588980\">Guido Douven</a>"
+                ],
+                "photo_reference": "AdCG2DOD4ob05viaQqb_kzhyRivCeAi1WGV861nG0KDJSmqp-U-OHkB0k6iuO54qnJlBEliYc3io2dqObewgQlbAYL9m6Pwbh4BivL-Xw847jsuEJd5jcPwhi81xvHZwFeaFZaP8OKItgmrwr6X6GGoUOUSnte6jxqWgJd-L1WT86T08oFNL",
+                "width": 612
+            },
+            {
+                "height": 1970,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/112182897479916875006\">Carlos Corral</a>"
+                ],
+                "photo_reference": "AdCG2DOzQ4eVwoeTiQJmMEaWkO8vWmxlU5dLx_-9c9gzYW7mh3cU6N4qJRUW_soOPywZa4TdyHdocPPvLCDqiugq_rg_8auX6H0tUa2Fy-xBe3gDbthnEgDGdOC6UsY1fzWKZqBgI2ZIf3UBQ4wUCVn2swE0EDpdRGFMWhqL55c04FLhrlOi",
+                "width": 2627
+            },
+            {
+                "height": 4032,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/109772958461965188504\">Ilona Markova</a>"
+                ],
+                "photo_reference": "AdCG2DMb1_cb1-OlT8gpQ8M3DwPx8i8Hq577QUdDjKVpSQRkj2PLitm-IKthWSKpiaNbY1lRDwseDm1G9UKL-RhQSh76D-Y0XOtEy1mLnoVc7kxr7MljuoNZp8bWSQ_yVPE-acAu2rFaDp7huf9GmadA8R2qh0DltdjpO6odDJts4aBD3yRb",
+                "width": 2268
+            },
+            {
+                "height": 2592,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/109253435657976413555\">Frank Huang</a>"
+                ],
+                "photo_reference": "AdCG2DOyWFMkccQVKBkYXmbAg6YoVqroEyH_4EJ0N-CsvJAxvOsWtiTuA3WBSNzUsq0Fd7GT0eO67BT2ColeHtA_hc4aR7gp9RDcjDOSNc-TaqAwCN82kmyzH979B3TQ2nJ2OpWW26whhForkmb1R_RvbVFXpEL0tYK9c0euM10xlefUtXUv",
+                "width": 4608
+            },
+            {
+                "height": 3456,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/101183189993115226419\">cmilton111</a>"
+                ],
+                "photo_reference": "AdCG2DPvyWfuktgt87asA63c7e6Z4nlxZ8VH95sDM8C5nF0QAiq8_-4qPz9qbU0kmZjmTSrG61lCMn0YWJGJt3shIbU28PaT3VtkmwYtD5fNdtCN-bwSkg5USMixVAEEmhUkBAfd-QO1tkgfE8MdmQy7k9RzI6ihKTB-9XBpQbFxNvUUX86Z",
+                "width": 4608
+            },
+            {
+                "height": 2268,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/115572682934601405282\">因花的花花世界</a>"
+                ],
+                "photo_reference": "AdCG2DNqOQtL5PlOveodY1aCymbdetUPtKfvLtbBubCbh8ePdMMJtJL8qewMuMxmetMAOxSa-Uufh9BwQ9ZQDtOUpq_7aL37jjZUK7_C4s88wP06yA9FFKj9tCwwY4E57uzwmrz46LTDAeqIGlcTzKo02WWlvVaLt-TnDIYF1U0CTXU8ZGIQ",
+                "width": 4032
+            },
+            {
+                "height": 2620,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/107447554513650010215\">Ryan Camomile</a>"
+                ],
+                "photo_reference": "AdCG2DP9Y2XensfJ9vMUJX4o3T7RE8dcXsdfHZlYR5MEE7lNaNTY_47jZEBoF5bVY4Xgv3wvZF8Dz7xRVF8J3HtsilEXic4cfclPfhMTZU3XgOCH7wOT_aBv7Y__6r7kDj80EIuut2uNnxTku3inFInkkZTVvGuErVrZBrhsQ48W23BC8tnA",
+                "width": 4656
+            },
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/109937275308917327051\">Traveling Experience</a>"
+                ],
+                "photo_reference": "AdCG2DP6dVUf2V8pniP8JESenf0kHP5BX9_H0tk7Jrauj-nXW_tycxOhsofDyJLpHt0q-KiNO2gU49jZ-RAl2EEmGjSXSdhnAhYQZ62uXAfwFQ1YjjYzAdWJ33EMRJvM1FbzcUDLPziu7UPph6LiWDdkQgCKWrH4FAZgkTDriODfHnQvJI6t",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJwSRbj8jg3IAR9tp5qDW05w0",
+        "reference": "ChIJwSRbj8jg3IAR9tp5qDW05w0",
+        "types": [
+            "locality",
+            "political"
+        ],
+        "url": "https://maps.google.com/?q=Laguna+Beach,+CA,+USA&ftid=0x80dce0c88f5b24c1:0xde7b435a879daf6",
+        "utc_offset": -420,
+        "vicinity": "Laguna Beach",
+        "website": "http://www.lagunabeachcity.net/"
+    },
+    "status": "OK"
+}

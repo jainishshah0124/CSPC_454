@@ -1,0 +1,18 @@
+runtime: nodejs18
+service: client
+
+instance_class: F1  # Adjust based on your needs (F1, F2, etc.)
+
+handlers:
+  - url: /static
+    static_dir: build/static/
+  - url: /.* 
+    static_files: build/index.html
+    upload: build/index.html
+
+env_variables:
+  NODE_ENV: 'production'
+  GOOGLE_API_KEY: "AIzaSyC7iWcY4uYnqSYvzfCvxV4NwJZNsOPJGQk"
+  WORLDTIDES_API_KEY: "e4f0e5e2-c087-4541-95d7-7b60f596051f"
+
+entrypoint: "serve -s build"

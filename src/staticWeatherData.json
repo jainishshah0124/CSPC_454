@@ -1,0 +1,45 @@
+{
+    "coord": {
+        "lon": -121.4238,
+        "lat": 38.421
+    },
+    "weather": [
+        {
+            "id": 800,
+            "main": "Clear",
+            "description": "clear sky",
+            "icon": "01n"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 286.97,
+        "feels_like": 286,
+        "temp_min": 286.13,
+        "temp_max": 288.23,
+        "pressure": 1013,
+        "humidity": 61,
+        "sea_level": 1013,
+        "grnd_level": 1012
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 0,
+        "deg": 0
+    },
+    "clouds": {
+        "all": 0
+    },
+    "dt": 1729833332,
+    "sys": {
+        "type": 2,
+        "id": 2002655,
+        "country": "US",
+        "sunrise": 1729779850,
+        "sunset": 1729818911
+    },
+    "timezone": -25200,
+    "id": 5364271,
+    "name": "Laguna",
+    "cod": 200
+}

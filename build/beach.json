@@ -1,0 +1,7 @@
+[
+    { "id": 1, "lat": 33.6595, "lng": -117.9988, "info": "Huntington Beach","wiki":"Huntington_Beach,_California" },
+    { "id": 2, "lat": 34.0194, "lng": -118.4912, "info": "Santa Monica Beach","wiki":"Santa_Monica,_California" },
+    { "id": 3, "lat": 33.7701, "lng": -118.1937, "info": "Long Beach","wiki":"Long_Beach,_California" },
+    { "id": 4, "lat": 33.5427, "lng": -117.7854, "info": "Laguna Beach","wiki":"Laguna_Beach,_California" },
+    { "id": 5, "lat": 33.6189, "lng": -117.9298, "info": "Newport Beach","wiki":"Newport_Beach,_California" }
+]

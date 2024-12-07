@@ -1,0 +1,18 @@
+runtime: nodejs18
+service: server
+
+instance_class: F1  # Adjust based on your needs
+
+env_variables:
+  NODE_ENV: 'production'
+  GAE_DB_ADDRESS: "/cloudsql/turing-diode-439622-f5:us-west2:demo0124"
+  GOOGLE_API_KEY: "AIzaSyC7iWcY4uYnqSYvzfCvxV4NwJZNsOPJGQk"
+  WORLDTIDES_API_KEY: "e4f0e5e2-c087-4541-95d7-7b60f596051f"
+
+entrypoint: "node server.js"
+
+handlers:
+  - url: /api/.*
+    script: auto  # Handle API requests under /api
+  - url: /.*
+    script: auto  # Handle other routes if necessary

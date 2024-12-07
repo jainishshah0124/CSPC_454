@@ -1,0 +1,46 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": 33.5427189,
+                    "lng": -117.7853568
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.61029846524773,
+                        "lng": -117.731183034429
+                    },
+                    "southwest": {
+                        "lat": 33.484172915427,
+                        "lng": -117.8201947533314
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Laguna Beach",
+            "photos": [
+                {
+                    "height": 990,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115879638001435740331\">Dr. Nizam Uddin Anon</a>"
+                    ],
+                    "photo_reference": "AdCG2DOb3y5CBrEGSx5dlxEmBrjSfMkHSDQH5yHp9IRW6IfCz6SC_MNiDwiVf5X3dnZvWxND7l1gXIapBbVqRAfubKP4fpcN3OanHD3-uAiXCgD5cg5UfbDAm0zGMIK8jCdY86Ixa0y54lNobxo48e__Q6RSnwwZT-pNDxWYq-CKV_XgEHk",
+                    "width": 720
+                }
+            ],
+            "place_id": "ChIJwSRbj8jg3IAR9tp5qDW05w0",
+            "reference": "ChIJwSRbj8jg3IAR9tp5qDW05w0",
+            "scope": "GOOGLE",
+            "types": [
+                "locality",
+                "political"
+            ],
+            "vicinity": "Laguna Beach"
+        }
+    ],
+    "status": "OK"
+}

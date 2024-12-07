@@ -3,7 +3,7 @@
 California's Informative Beach Website is a cloud-based platform providing updated and accurate information about California beaches. Designed for tourists and residents, the website promotes environmental awareness while offering real-time beach data, including weather, tide conditions, nearby attractions, and safety alerts.
 
 ## Features
-1. Real-Time Data:
+1. ### Real-Time Data:
     Live updates on weather, tide conditions, and water quality.
 2. Personalized Experience:
     Track user preferences, favorites, and alerts.

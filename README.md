@@ -3,7 +3,7 @@
 California's Informative Beach Website is a cloud-based platform providing updated and accurate information about California beaches. Designed for tourists and residents, the website promotes environmental awareness while offering real-time beach data, including weather, tide conditions, nearby attractions, and safety alerts.
 
 ## Features
-1. ### Real-Time Data:
+1. Real-Time Data:
     Live updates on weather, tide conditions, and water quality.
 2. Personalized Experience:
     Track user preferences, favorites, and alerts.
@@ -15,20 +15,21 @@ California's Informative Beach Website is a cloud-based platform providing updat
 ## Technology Stack
 1. Frontend:
     Developed using React.js for a responsive user interface.
-Backend:
-Built with Node.js to handle API data processing and user management.
-Database:
-Google Cloud SQL (MySQL) for storing user preferences and historical data.
-Hosting:
-Google Compute Engine (GCE) for scalable backend hosting.
-Deployment Automation:
-Google Deployment Manager for automated resource provisioning and version control.
-Monitoring and Logging:
-Integrated with Google Cloud Monitoring and Logging for performance tracking.
-Deployment Architecture
-Frontend:
-Hosted on a virtual machine in GCE.
-Communicates with the backend using RESTful APIs.
+2. Backend:
+    Built with Node.js to handle API data processing and user management.
+3. Database:
+    Google Cloud SQL (MySQL) for storing user preferences and historical data.
+4. Hosting:
+    Google Compute Engine (GCE) for scalable backend hosting.
+5. Deployment Automation:
+    Google Deployment Manager for automated resource provisioning and version control.
+6. Monitoring and Logging:
+    Integrated with Google Cloud Monitoring and Logging for performance tracking.
+
+## Deployment Architecture
+1. Frontend:
+    * Hosted on a virtual machine in GCE.
+    * Communicates with the backend using RESTful APIs.
 Backend:
 Hosted on a separate GCE instance.
 Secured connectivity with Cloud SQL using IAM roles.

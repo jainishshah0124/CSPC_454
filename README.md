@@ -49,40 +49,29 @@ California's Informative Beach Website is a cloud-based platform providing updat
 * Ensure scalability and reliability with robust cloud infrastructure.
 
 ## Setup and Usage
-1. Clone the Repository:
+1. ** Clone the Repository: **
 
 ```bash
-Copy code
 git clone https://github.com/jainishshah0124/california-beach-website.git 
 ```
 
-2. Install Dependencies:
+2. ** Install Dependencies: **
 ```
 bash
-Copy code
 cd california-beach-website/frontend
 npm install
 cd ../backend
 npm install
 ```
 
-3. Run the Application:
+3. ** Run the Application: **
 
-Frontend:
-bash
-Copy code
+* Frontend:
+```bash
 npm start
-Backend:
-bash
-Copy code
+```
+* Backend:
+```bash
 node server.js
+```
 Access the Website: Visit http://localhost:3000 for the frontend.
-
-API Integration
-Weather and tide data fetched from third-party APIs.
-Secure API endpoints for user preferences and alerts.
-
-Future Enhancements
-Add a mobile app version of the platform.
-Incorporate more analytics for historical trends.
-Expand coverage to include beaches outside California.
